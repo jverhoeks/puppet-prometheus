@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 Each new release typically also includes the latest modulesync defaults.
 These should not affect the functionality of the module.
 
+## [v4.0.1 
+Custom fix to trigger apt-get update after loading the config.
+OLX-Indonesia Migration
+
+
+
 ## [v4.0.0](https://github.com/voxpupuli/puppet-prometheus/tree/v4.0.0) (2018-01-04)
 
 [Full Changelog](https://github.com/voxpupuli/puppet-prometheus/compare/v3.1.0...v4.0.0)
